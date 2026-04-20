@@ -1,4 +1,4 @@
-# OpenText Products that we give support
+# 📦 OpenText Products that we give support
 
 We provide specialized support for a wide range of solutions from OpenText, helping organizations implement, manage, and optimize their platforms. 
 Our team offers technical assistance, troubleshooting, configuration guidance, and best-practice recommendations to ensure reliable performance, 
@@ -7,7 +7,7 @@ security, and efficiency across supported products.
 Through our services, companies can maximize the value of their OpenText technologies while maintaining stable and secure operations in their development, 
 security, and IT management environments.
 
-## Fortify (Application Security)
+## 🛡️🔐 Fortify (Application Security)
 
 [OpenText Fortify Application Security](https://www.microfocus.com/en-us/solutions/application-security) provides your team with solutions 
 to empower [DevSecOps](https://www.microfocus.com/en-us/cyberres/use-cases/devsecops) practices, 
