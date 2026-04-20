@@ -30,5 +30,5 @@ Repositories from OpenText Fortify organization are categorized using GitHub top
 | 🚀 [fortify-deployment](https://github.com/search?q=org%3Afortify+topic%3Afortify-deployment)                 | 🖥️ [fortify-sc-sast](https://github.com/search?q=org%3Afortify+topic%3Afortify-sc-sast)        |
 | 🔌 [fortify-api](https://github.com/search?q=org%3Afortify+topic%3Afortify-api)                               | 🎛️ [fortify-sc-dast](https://github.com/search?q=org%3Afortify+topic%3Afortify-sc-dast)        |
 | 📄 [fortify-api-sample](https://github.com/search?q=org%3Afortify+topic%3Afortify-api-sample)                 | 🏢 [fortify-on-demand](https://github.com/search?q=org%3Afortify+topic%3Afortify-on-demand)    |
-| 🐞 [vulnerable-sample-app](https://github.com/search?q=org%3Afortify+topic%3Avulnerable-sample-app)           | ⚙️ [debricked](https://github.com/search?q=org%3Afortify+topic%3Adebricked)                    | 
+| 🐞 [vulnerable-sample-apps](https://github.com/search?q=org%3Afortify+topic%3Avulnerable-sample-app)           | ⚙️ [debricked](https://github.com/search?q=org%3Afortify+topic%3Adebricked)                    | 
 | 📖 [fortify-documentation](https://github.com/search?q=org%3Afortify+topic%3Afortify-documentation)           |                                                                                                |
