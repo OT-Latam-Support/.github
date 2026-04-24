@@ -33,8 +33,6 @@ go beyond 'check the box' security to achieve that.
 
 Repositories from OpenText Fortify organization are categorized using GitHub topics. Note that a repository may appear in multiple categories.
 
----
-
 | Function-based categories                                                                                     | Product-based categories                                                                       |
 | ------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | 🔄 [fortify-integration](https://github.com/search?q=org%3Afortify+topic%3Afortify-integration)               | 💻 [fortify-sca](https://github.com/search?q=org%3Afortify+topic%3Afortify-sca)                |
