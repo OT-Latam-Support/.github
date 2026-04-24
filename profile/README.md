@@ -17,6 +17,8 @@ security, and IT management environments.
 
 The OpenText products that we give support are the following:
 
+---
+
 ## 🛡️🔐 Fortify (Application Security)
 
 [OpenText Fortify Application Security](https://www.microfocus.com/en-us/solutions/application-security) provides your team with solutions 
@@ -30,6 +32,8 @@ We firmly believe that your great code [demands great security](https://www.micr
 go beyond 'check the box' security to achieve that.
 
 Repositories from OpenText Fortify organization are categorized using GitHub topics. Note that a repository may appear in multiple categories.
+
+---
 
 | Function-based categories                                                                                     | Product-based categories                                                                       |
 | ------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
