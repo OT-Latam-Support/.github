@@ -5,6 +5,7 @@
 ![Fortify](https://img.shields.io/badge/DAST-Fortify-blue)
 ![DevSecOps](https://img.shields.io/badge/DevSecOps-CI/CD-orange)
 ![Security](https://img.shields.io/badge/Security-AppSec-red)
+![Support](https://img.shields.io/badge/Support-Premium-green)
 
 ## 📦 OpenText Products that we give support
 
