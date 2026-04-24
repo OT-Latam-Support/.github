@@ -2,6 +2,7 @@
 
 ![OpenText](https://img.shields.io/badge/OT-Latam-purple)
 ![Fortify](https://img.shields.io/badge/SAST-Fortify-blue)
+![Fortify](https://img.shields.io/badge/DAST-Fortify-blue)
 ![DevSecOps](https://img.shields.io/badge/DevSecOps-CI/CD-orange)
 ![Security](https://img.shields.io/badge/Security-AppSec-red)
 
