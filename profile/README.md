@@ -1,4 +1,11 @@
-# 📦 OpenText Products that we give support
+# OT-Latam Support
+
+![OpenText](https://img.shields.io/badge/OT-Latam-purple)
+![Fortify](https://img.shields.io/badge/SAST-Fortify-blue)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-CI/CD-orange)
+![Security](https://img.shields.io/badge/Security-AppSec-red)
+
+## 📦 OpenText Products that we give support
 
 We provide specialized support for a wide range of solutions from OpenText, helping organizations implement, manage, and optimize their platforms. 
 Our team offers technical assistance, troubleshooting, configuration guidance, and best-practice recommendations to ensure reliable performance, 
