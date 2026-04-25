@@ -109,3 +109,14 @@ We welcome contributions and collaboration.
 - Fork repositories.
 - Submit pull requests.
 - Share improvements and integrations.
+
+---
+
+## 🤝 Support
+
+💬 For general assistance, please contact me at 📧 [my email](mailto:iperez@ot-latam.com) or if you need assistance with OpenText solutions, please contact:
+ 
+- 🌐 https://ot-latam.com
+- 🆘 OpenText/OT-Latam customers can contact our [support team](https://portal.microfocus.com) for questions, enhancement requests and bug reports.
+- 🙋 You can also raise questions and issues through your OpenText/OT-Latam Fortify representative like Customer Success Manager or Technical Account Manager if applicable.
+- 🧭 You may also consider raising questions or issues through the [GitHub Issues page](https://github.com/Iperez95-ot/FortifyScripts/issues) (if available for this repository), providing public visibility and allowing anyone (including all contributors) to review and comment on your question or issue. Note that this requires a GitHub account, and given public visibility, you should refrain from posting any confidential data through this channel.
