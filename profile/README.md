@@ -46,29 +46,6 @@ We support:
 - DevSecOps pipeline integrations.
 - Secure software supply chain practices.
 
----
-
-## ⚙️ DevSecOps & Integrations
-
-We help integrate security into your development pipelines:
-
-- Git-based workflows (GitHub / GitLab / Bitbucket / Jenkins / Bamboo / Azure DevOps).
-- CI/CD pipelines (Jenkins, GitLab CI, Azure DevOps).
-- Automated security scanning.
-- Policy enforcement and compliance.
-
----
-
-## 🔐 Security Commitment
-
-We are committed to helping organizations:
-
-- Improve application security posture.
-- Reduce vulnerabilities.
-- Implement secure development practices.
-
----
-
 [OpenText Fortify Application Security](https://www.microfocus.com/en-us/solutions/application-security) provides your team with solutions 
 to empower [DevSecOps](https://www.microfocus.com/en-us/cyberres/use-cases/devsecops) practices, 
 enable [cloud transformation](https://www.microfocus.com/en-us/cyberres/use-cases/cloud-transformation), 
@@ -90,6 +67,27 @@ Repositories from OpenText Fortify organization are categorized using GitHub top
 | 📄 [fortify-api-sample](https://github.com/search?q=org%3Afortify+topic%3Afortify-api-sample)                 | 🏢 [fortify-on-demand](https://github.com/search?q=org%3Afortify+topic%3Afortify-on-demand)    |
 | 🐞 [vulnerable-sample-apps](https://github.com/search?q=org%3Afortify+topic%3Avulnerable-sample-app)           | ⚙️ [debricked](https://github.com/search?q=org%3Afortify+topic%3Adebricked)                    | 
 | 📖 [fortify-documentation](https://github.com/search?q=org%3Afortify+topic%3Afortify-documentation)           |                                                                                                |
+
+---
+
+## ⚙️ DevSecOps & Integrations
+
+We help integrate application security into your development pipelines:
+
+- Git-based workflows (GitHub / GitLab / Bitbucket / Jenkins / Bamboo / Azure DevOps).
+- CI/CD pipelines (Jenkins, GitLab CI, Azure DevOps).
+- Automated security scanning.
+- Policy enforcement and compliance.
+
+---
+
+## 🔐 Security Commitment
+
+We are committed to helping organizations:
+
+- Improve application security posture.
+- Reduce vulnerabilities.
+- Implement secure development practices.
 
 ---
 
