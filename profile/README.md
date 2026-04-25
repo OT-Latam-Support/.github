@@ -12,7 +12,7 @@
 OT-Latam Support provides specialized technical support and professional services for OpenText solutions across Latin America.
 We help organizations implement, secure, and optimize their Application Security, DevSecOps, and IT Management platforms.
 
-# Our team delivers:
+## Our team delivers:
 
 - 🔧 Technical support & troubleshooting.
 - ⚙️ Configuration & deployment guidance.
@@ -48,7 +48,7 @@ We support:
 
 ---
 
-# ⚙️ DevSecOps & Integrations
+## ⚙️ DevSecOps & Integrations
 
 We help integrate security into your development pipelines:
 
@@ -59,7 +59,7 @@ We help integrate security into your development pipelines:
 
 ---
 
-# 🔐 Security Commitment
+## 🔐 Security Commitment
 
 We are committed to helping organizations:
 
@@ -93,7 +93,7 @@ Repositories from OpenText Fortify organization are categorized using GitHub top
 
 ---
 
-# 📚 Documentation
+## 📚 Documentation
 
 We provide technical documentation, guides, and examples to help teams:
 
@@ -104,7 +104,7 @@ We provide technical documentation, guides, and examples to help teams:
 
 ---
 
-# 🤝 Contribution
+## 🤝 Contribution
 
 We welcome contributions and collaboration.
 
