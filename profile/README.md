@@ -7,6 +7,20 @@
 ![Security](https://img.shields.io/badge/Security-AppSec-red)
 ![Support](https://img.shields.io/badge/Support-Premium-green)
 
+## 🌎 About Us
+
+OT-Latam Support provides specialized technical support and professional services for OpenText solutions across Latin America.
+We help organizations implement, secure, and optimize their Application Security, DevSecOps, and IT Management platforms.
+
+# Our team delivers:
+
+- 🔧 Technical support & troubleshooting.
+- ⚙️ Configuration & deployment guidance.
+- 🔐 Security best practices.
+- 🚀 DevSecOps integration strategies.
+
+---
+
 ## 📦 OpenText Products that we give support
 
 We provide specialized support for a wide range of solutions from OpenText, helping organizations implement, manage, and optimize their platforms. 
@@ -21,6 +35,39 @@ The OpenText products that we give support are the following:
 ---
 
 ## 🛡️🔐 Fortify (Application Security)
+
+OpenText Fortify empowers organizations to build secure software by integrating security across the entire development lifecycle.
+
+We support:
+
+- Static Application Security Testing (SAST).
+- Dynamic Application Security Testing (DAST).
+- Software Composition Analysis (SCA).
+- DevSecOps pipeline integrations.
+- Secure software supply chain practices.
+
+---
+
+# ⚙️ DevSecOps & Integrations
+
+We help integrate security into your development pipelines:
+
+- Git-based workflows (GitHub / GitLab / Bitbucket / Jenkins / Bamboo / Azure DevOps).
+- CI/CD pipelines (Jenkins, GitLab CI, Azure DevOps).
+- Automated security scanning.
+- Policy enforcement and compliance.
+
+---
+
+# 🔐 Security Commitment
+
+We are committed to helping organizations:
+
+- Improve application security posture.
+- Reduce vulnerabilities.
+- Implement secure development practices.
+
+---
 
 [OpenText Fortify Application Security](https://www.microfocus.com/en-us/solutions/application-security) provides your team with solutions 
 to empower [DevSecOps](https://www.microfocus.com/en-us/cyberres/use-cases/devsecops) practices, 
@@ -43,3 +90,24 @@ Repositories from OpenText Fortify organization are categorized using GitHub top
 | 📄 [fortify-api-sample](https://github.com/search?q=org%3Afortify+topic%3Afortify-api-sample)                 | 🏢 [fortify-on-demand](https://github.com/search?q=org%3Afortify+topic%3Afortify-on-demand)    |
 | 🐞 [vulnerable-sample-apps](https://github.com/search?q=org%3Afortify+topic%3Avulnerable-sample-app)           | ⚙️ [debricked](https://github.com/search?q=org%3Afortify+topic%3Adebricked)                    | 
 | 📖 [fortify-documentation](https://github.com/search?q=org%3Afortify+topic%3Afortify-documentation)           |                                                                                                |
+
+---
+
+# 📚 Documentation
+
+We provide technical documentation, guides, and examples to help teams:
+
+- Install and configure Fortify solutions.
+- Integrate with CI/CD pipelines.
+- Automate scans and reporting.
+- Troubleshoot common issues.
+
+---
+
+# 🤝 Contribution
+
+We welcome contributions and collaboration.
+
+- Fork repositories.
+- Submit pull requests.
+- Share improvements and integrations.
