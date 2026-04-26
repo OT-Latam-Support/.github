@@ -68,8 +68,6 @@ Repositories from OpenText Fortify organization are categorized using GitHub top
 | 🐞 [vulnerable-sample-apps](https://github.com/search?q=org%3Afortify+topic%3Avulnerable-sample-app)           | ⚙️ [debricked](https://github.com/search?q=org%3Afortify+topic%3Adebricked)                    | 
 | 📖 [fortify-documentation](https://github.com/search?q=org%3Afortify+topic%3Afortify-documentation)           |                                                                                                |
 
----
-
 ## ⚙️ DevSecOps & Integrations
 
 We help integrate application security into your development pipelines:
@@ -95,7 +93,7 @@ We are committed to helping organizations:
 
 We provide technical documentation, guides, and examples to help teams:
 
-- Install and configure Fortify solutions.
+- Install and configure Fortify solution.
 - Integrate with CI/CD pipelines.
 - Automate scans and reporting.
 - Troubleshoot common issues.
@@ -120,3 +118,14 @@ We welcome contributions and collaboration.
 - 🆘 OpenText/OT-Latam customers can contact our [support team](https://portal.microfocus.com) for questions, enhancement requests and bug reports.
 - 🙋 You can also raise questions and issues through your OpenText/OT-Latam Fortify representative like Customer Success Manager or Technical Account Manager if applicable.
 - 🧭 You may also consider raising questions or issues through the [GitHub Issues page](https://github.com/Iperez95-ot/FortifyScripts/issues) (if available for this repository), providing public visibility and allowing anyone (including all contributors) to review and comment on your question or issue. Note that this requires a GitHub account, and given public visibility, you should refrain from posting any confidential data through this channel.
+
+---
+
+🧾 License
+
+This repository is intended for internal automation and integration use with OpenText products.
+Ensure compliance with your organization’s licensing and security policies.
+
+---
+
+🛠️ Maintained by Ignacio Perez Civeira – OT-Latam Support Consultant Engineer
